@@ -32,7 +32,7 @@ Tigriopus kingsejongensis genome project
 ### Statistics of the draft assembly
 | |Tk v1 assembly|
 |---|---:|
-|Contigs No. | 1,066|
+|Scaffolds No. | 1,066|
 |Total length (bp)| 196,471,422|
 |N50 (bp)| 818,552|
 |Max contig length (bp)| 4,767,029|
