@@ -39,3 +39,5 @@ Tigriopus kingsejongensis genome project
 |Gap| 2.91%|
 |GC contents| 45.87%|
 
+### Genome browser
+* Tk v1.0 : http://210.218.217.114:8085/apollo/1/jbrowse/index.html (Powered by J-browser)
