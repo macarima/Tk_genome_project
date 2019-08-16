@@ -28,3 +28,6 @@ Tigriopus kingsejongensis genome project
 * Manual annotation (Web-apollo, http://genomearchitect.org)
 
 ## Results
+
+### Statistics of the draft assembly
+| |Tk v1 assembly|
