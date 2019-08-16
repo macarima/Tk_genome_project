@@ -31,6 +31,7 @@ Tigriopus kingsejongensis genome project
 
 ### Statistics of the draft assembly
 | |Tk v1 assembly|
+|---|---:|
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
