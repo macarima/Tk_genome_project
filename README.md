@@ -44,11 +44,13 @@ Tigriopus kingsejongensis genome project
 
 ### Download contents for Tk v1.0 gene information
 * Available from [release][release] section
+* Tk v1.1 is in preparation.
+
 Genome_sequence : Tk_genome_v1.genome.fa.gz
 CDS sequence : Tk_genome_v1.cds.fa.gz
 Peptide sequence : Tk_genome_v1.pep.fa.gz
 Annotated gff3 : Tk_genome_v1.gff3.gz
 
-* Tk v1.1 is in preparation.
+
 
 [release] : https://github.com/macarima/Tk_genome_project/releases
