@@ -43,5 +43,8 @@ Tigriopus kingsejongensis genome project
 * Tk v1.0 : http://210.218.217.114:8085/apollo/1/jbrowse/index.html (Powered by J-browser)
 
 ### Download contents for Tk v1.0 gene information
-* Available from BioDisk (KOGIC, UNIST) on 9.1.2019.
+* Available from BioDisk (KOGIC, UNIST)
+[Tk_assembled_genome_sequence][Tk_assembled_genome_sequence]
+
 * Tk v1.1 is in preparation.
+[Tk_assembled_genome_sequence]: ftp://biodisk.org/BiO/Tk_polar/Tk_genome_v1.genome.fa.gz
