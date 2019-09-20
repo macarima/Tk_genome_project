@@ -44,10 +44,10 @@ Tigriopus kingsejongensis genome project
 
 ### Download contents for Tk v1.0 gene information
 * Available from BioDisk (KOGIC, UNIST)
->Genome_sequence : ftp://biodisk.org/BiO/Tk_polar/Tk_genome_v1.genome.fa.gz
->CDS sequence : ftp://biodisk.org/BiO/Tk_polar/Tk_genome_v1.cds.fa.gz
->Peptide sequence : ftp://biodisk.org/BiO/Tk_polar/Tk_genome_v1.pep.fa.gz
->Annotated gff3 : ftp://biodisk.org/BiO/Tk_polar/Tk_genome_v1.gff3.gz
+>* Genome_sequence : ftp://biodisk.org/BiO/Tk_polar/Tk_genome_v1.genome.fa.gz
+>* CDS sequence : ftp://biodisk.org/BiO/Tk_polar/Tk_genome_v1.cds.fa.gz
+>* Peptide sequence : ftp://biodisk.org/BiO/Tk_polar/Tk_genome_v1.pep.fa.gz
+>* Annotated gff3 : ftp://biodisk.org/BiO/Tk_polar/Tk_genome_v1.gff3.gz
 
 * Tk v1.1 is in preparation.
 
