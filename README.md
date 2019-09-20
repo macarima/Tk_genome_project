@@ -40,7 +40,7 @@ Tigriopus kingsejongensis genome project
 |GC contents| 45.87%|
 
 ### Genome browser
-* Tk v1.0 : http://210.218.217.114:8085/apollo/1/jbrowse/index.html (Powered by J-browser)
+* Tk v1.0 : http://210.218.217.114:8085/apollo/1/jbrowse/index.html (Powered by WebApollo & J-browser)
 
 ### Download contents for Tk v1.0 gene information
 * Available from BioDisk (KOGIC, UNIST)
@@ -48,5 +48,5 @@ Tigriopus kingsejongensis genome project
 [CDS sequence] : ftp://biodisk.org/BiO/Tk_polar/Tk_genome_v1.cds.fa.gz
 [Peptide sequence] : ftp://biodisk.org/BiO/Tk_polar/Tk_genome_v1.pep.fa.gz
 [Annotated gff3] : ftp://biodisk.org/BiO/Tk_polar/Tk_genome_v1.gff3.gz
-==============
+
 * Tk v1.1 is in preparation.
