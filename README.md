@@ -16,7 +16,7 @@ Tigriopus kingsejongensis genome project
 * Contaminated raw reads from prokaryote and fungi (Tool : BBtools, DB : Refgen)
 
 ### De novo assembly
-* Creating contigs (Flye assembler v2.5)
+* Creating contigs (Flye assembler v2.8.1)
 * Polishing the draft assembly (Pilon, https://github.com/broadinstitute/pilon)
 * Read-based phasing (Whatshap v1)
 * Assembly assessment (BUSCO v5, https://busco.ezlab.org/#software)
