@@ -23,7 +23,7 @@ Tigriopus kingsejongensis genome project
 
 ### Gene prediction and annotation
 * Consturction of Repeat library (RepeatModeler : http://www.repeatmasker.org/, TEclass : http://www.compgen.uni-muenster.de/tools/teclass)
-* Braker2 (http://exon.gatech.edu/braker1.html)
+* Braker2
 * Filtering annotated genes (In-house custom script)
 
 ## Results
