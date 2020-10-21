@@ -1,20 +1,18 @@
-# Tk_genome_project
+# Tk genome project
 Tigriopus kingsejongensis genome project
 
 ## Status of the project
 * Tk_genome_v1 : Done and released.
 * Tk_genome_v2 : Done and ready to release.
 
-## Methods
+## Methods of Tk genome v2
 ### gDNA sequencing
-* Library type : Short paired-end (PE), Long mated-pair (MP), Long read (LR)
+* Library type : Short paired-end (PE), Long read (LR)
 * Sequencing methods : Illumina Miseq (Polar), HiSeq 2500 (JS.Lee lab), PacBio Sequel CLR (JS.Lee lab)
 
 ### Preprocessing steps for raw reads
 * Adapters and low quality reads removal (Trimmomatic, http://www.usadellab.org/cms/?page=trimmomatic)
-* Nextera adapters removal (Skewer, https://github.com/relipmoc/skewer)
 * Error correction for raw reads (BBtools, JGI https://jgi.doe.gov/data-and-tools/bbtools)
-* Duplicated reads removal (FastUniq, https://sourceforge.net/projects/fastuniq) 
 * Contaminated raw reads from prokaryote and fungi (Tool : BBtools, DB : Refgen)
 
 ### De novo assembly
@@ -24,8 +22,8 @@ Tigriopus kingsejongensis genome project
 * Assembly assessment (BUSCO v5, https://busco.ezlab.org/#software)
 
 ### Gene prediction and annotation
-* Braker2 (http://exon.gatech.edu/braker1.html)
 * Consturction of Repeat library (RepeatModeler : http://www.repeatmasker.org/, TEclass : http://www.compgen.uni-muenster.de/tools/teclass)
+* Braker2 (http://exon.gatech.edu/braker1.html)
 * Filtering annotated genes (In-house custom script)
 
 ## Results
