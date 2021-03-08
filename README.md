@@ -8,7 +8,7 @@ Tigriopus kingsejongensis genome project
 ## Methods of Tk genome v2
 ### gDNA sequencing
 * Library type : Short paired-end (PE), Long read (LR)
-* Sequencing methods : Illumina Miseq (Polar), HiSeq 2500 (JS.Lee lab), PacBio Sequel CLR (JS.Lee lab)
+* Sequencing data : Illumina Miseq (KOPRI, https://www.kopri.re.kr), HiSeq 2500 (JS.Lee lab, http://tigriopus.skku.edu), PacBio Sequel CLR (JS.Lee lab)
 
 ### Preprocessing steps for raw reads
 * Adapters and low quality reads removal (Trimmomatic, http://www.usadellab.org/cms/?page=trimmomatic)
