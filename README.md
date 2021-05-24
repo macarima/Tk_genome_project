@@ -3,9 +3,9 @@ Tigriopus kingsejongensis genome project
 
 ## Status of the project
 * Tk_genome_v1 : Done and released.
-* Tk_genome_v2 : Processing
+* Tk_genome_v1.1 : Processing
 
-## Methods of Tk genome v2
+## Methods of Tk genome v1.1
 ### gDNA sequencing
 * Library type : Short paired-end (PE), Long read (LR)
 * Sequencing data : Illumina Miseq (KOPRI, https://www.kopri.re.kr), HiSeq 2500 (JS.Lee lab, http://tigriopus.skku.edu), PacBio Sequel CLR (JS.Lee lab)
@@ -35,7 +35,7 @@ Tigriopus kingsejongensis genome project
 
 ### Download contents for Tk v1.0 gene information
 * Available on the [release][release] section
-* Tk v2.0 is in preparation.
+* Tk v1.1 is in preparation and will be released soon.
 
 [release]: https://github.com/macarima/Tk_genome_project/releases
 
