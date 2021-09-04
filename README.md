@@ -15,7 +15,7 @@ Tigriopus kingsejongensis genome project
 * Error correction for raw reads (BBtools, JGI https://jgi.doe.gov/data-and-tools/bbtools)
 * Contaminated raw reads from prokaryote and fungi (Tool : BBtools, DB : Refgen)
 
-### De novo assembly
+### **De novo** assembly
 * Creating contigs (Flye assembler v2.8.1)
 * Polishing the draft assembly (Pilon, https://github.com/broadinstitute/pilon)
 * Read-based phasing (Whatshap v1)
