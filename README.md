@@ -32,6 +32,7 @@ Tigriopus kingsejongensis genome project
 
 ### Genome browser
 * Tk v1.0 : http://210.218.217.114:8085/apollo/1/jbrowse/index.html (Powered by WebApollo & J-browser)
+  * Now under maintenance.
 
 ### Download contents for Tk v1.0 gene information
 * Available on the [release][release] section
