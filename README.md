@@ -1,6 +1,6 @@
 # Tk genome project
 Tigriopus kingsejongensis genome project
-* [Abstract]: (https://github.com/macarima/Tk_genome_project/blob/master/Abstract.md)
+* [Abstract](https://github.com/macarima/Tk_genome_project/blob/master/Abstract.md)
 
 ## Status of the project
 * Tk_genome_v1 : Done and released.
