@@ -1,9 +1,10 @@
 # Tk genome project
 Tigriopus kingsejongensis genome project
+* Abstract
 
 ## Status of the project
 * Tk_genome_v1 : Done and released.
-* Tk_genome_v2 : Processing
+* Tk_genome_v2 : Done and ready to release.
 
 ## Methods of Tk genome v2
 ### gDNA sequencing
